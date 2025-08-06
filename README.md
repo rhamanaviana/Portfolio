@@ -1,4 +1,10 @@
 # Portfolio
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/779055e1-f01b-4015-add9-e718443f1776" />
+<img width="1897" height="918" alt="image" src="https://github.com/user-attachments/assets/3eec3d1f-3182-49f0-b2fc-64c891541b61" />
+<img width="1898" height="921" alt="image" src="https://github.com/user-attachments/assets/67279663-aed6-4837-9208-3c7c421f2506" />
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/2d93c6b8-7db8-4e5b-944c-67cbc1372296" />
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/773a2066-d66e-400d-9487-f6015cf4136b" />
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/b8ae56f5-5f68-42ac-bb24-dbdb2c5279ec" />
 
 ## 📌 Sobre o Projeto
 
